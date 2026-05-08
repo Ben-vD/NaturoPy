@@ -1,2 +1,2 @@
-# NaturoPy
+# nectar
 Python Computational Intelligence library
